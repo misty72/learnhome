@@ -1,0 +1,29 @@
+{
+  "name": "learnhome",
+  "version": "1.0.0",
+  "description": "LearnHome is a homeschool platform designed to support curriculum planning, progress tracking, and parent/student collaboration.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misty72/learnhome.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/misty72/learnhome/issues"
+  },
+  "homepage": "https://github.com/misty72/learnhome#readme",
+  "dependencies": {
+    "next": "^16.2.6",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  }
+}
